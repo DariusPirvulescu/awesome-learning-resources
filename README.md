@@ -1,10 +1,6 @@
-# Awesome Learning Resources 
+# Awesome Learning Resources
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/lauragift21/awesome-learning-resources) ![license](https://img.shields.io/github/license/mashape/apistatus.svg)
-
-“**Awesome Resources RoadMap is being sponsored by the following tool; please help to support us by taking a look and signing up to a free trial**”
-
-<a href="https://tracking.gitads.io/?repo=awesome-learning-resources"><img src="https://images.gitads.io/awesome-learning-resources" alt="GitAds"/></a>
 
 [Preview on the web](https://nicedoc.io/lauragift21/awesome-learning-resources)
 
@@ -15,6 +11,7 @@
 - [Android](#android)
 - [Angular](#angular)
 - [APEX](#apex)
+- [BASH](#bash)
 - [Bootstrap](#bootstrap)
 - [C#](#c)
 - [Career](#career)
@@ -32,9 +29,11 @@
 - [Golang](#golang)
 - [GraphQL](#graphql)
 - [Hugo](#hugo)
+- [Hacking](#hacking)
 - [InfoSec](#infosec)
 - [JavaScript](#javascript)
 - [Kotlin](#kotlin)
+- [Laravel](#laravel)
 - [Machine Learning](#machine-learning)
 - [Markdown](#markdown)
 - [NodeJS](#nodejs)
@@ -50,14 +49,16 @@
 - [Rust](#rust)
 - [Serverless](#serverless)
 - [Sick Picks](#sick-picks)
+- [Startups](#startups)
 - [Svelte](#svelte)
 - [Swift](#swift)
-- [Typescript](#typescript)
+- [TensorFlow](#tensorflow)
 - [Twilio](#twilio)
+- [Typescript](#typescript)
 - [Voice](#voice)
 - [Vue](#vue)
 - [Women in Tech](#women-in-tech)
-- [TensorFlow](#TensorFlow)
+- [XML](#xml)
 
 ## Agile
 
@@ -77,6 +78,7 @@
 - [Build your first app](https://developer.android.com/training/basics/firstapp)
 - [Whats New? AndroidX](https://developer.android.com/jetpack/androidx)
 - [Migrate to AndroidX](https://developer.android.com/jetpack/androidx/migrate)
+- [Learn Android](https://www.tutlane.com/tutorial/android)
 
 ## Angular
 
@@ -90,6 +92,7 @@
 - [AngularJS to Angular2+ Migration Guide](https://angular.io/guide/upgrade)
 - [Angular in Depth](https://indepth.dev/angular/)
 - [NGRX](https://ngrx.io/)
+- [DevProjects - Free Real-World Angular Projects](https://www.codementor.io/projects/angular)
 
 ## APEX
 
@@ -104,6 +107,14 @@
 - [Joel Kallman's Blog](https://joelkallman.blogspot.com/)
 - [Oracle APEX Website](https://apex.oracle.com/)
 
+## BASH
+
+- [Bash Manual](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)
+- [Bash Programming](https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
+- [Shell Scripting MIT](https://missing.csail.mit.edu/2020/shell-tools/)
+- [Shell Scripting Project-Based](https://www.udemy.com/course/linux-shell-scripting-projects/)
+- [Practice Bash](https://www.hackerrank.com/domains/shell)
+
 ## BOOTSTRAP
 
 - [W3Schools](https://www.w3schools.com/bootstrap4/)
@@ -113,14 +124,17 @@
 - [Bootstrap Tutorial Series](https://github.com/SonarSystems/Bootstrap-4-Tutorial-Series)
 - [Hackr.io](https://hackr.io/tutorials/learn-bootstrap)
 - [Tabler](https://preview.tabler.io)
+- [Bootstrap Tutorial - Tutlane](https://www.tutlane.com/tutorial/bootstrap)
 
-## C
+## C#
 
 - [Channel9](https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners)
 - [Eduonix](https://www.eduonix.com/courses/Software-Development/Learn-C-Sharp-Programming-From-Scratch)
 - [Tutorials Point](https://www.tutorialspoint.com/csharp)
 - [Zetcode](http://zetcode.com/lang/csharp/)
 - [Tim Corey](https://www.youtube.com/channel/UC-ptWR16ITQyYOglXyQmpzw)
+- [W3Schools](https://www.w3schools.com/cs/default.asp)
+- [Tutlane](https://www.tutlane.com/tutorial/csharp)
 
 ## Career
 - [Career Paths in Tech](https://online.maryville.edu/online-bachelors-degrees/management-information-systems/careers/)
@@ -144,7 +158,7 @@
 - [Learn CSS Layouts](https://learnlayout.com/)
 - [Learn HTML & CSS](https://learn.shayhowe.com/)
 - [Flexbox Froggy](https://flexboxfroggy.com/)
-- [CSS Grid](http://cssgridgarden.com/)
+- [CSS Grid](https://cssgridgarden.com/)
 - [CSS Flexbox - freeCodeCamp](https://learn.freecodecamp.org/responsive-web-design/css-flexbox/)
 - [CSS Grid - freeCodeCamp](https://learn.freecodecamp.org/responsive-web-design/css-grid/)
 - [CSS Testing - QuirksMode.org](https://www.quirksmode.org/css/)
@@ -168,6 +182,9 @@
 - [Analytics Vidhya](https://www.analyticsvidhya.com/blog/2019/01/learning-path-data-scientist-machine-learning-2019/)
 - [Alison](https://alison.com/courses/data-science)
 - [Automate the boring stuff with Python](https://automatetheboringstuff.com)
+- [Sololearn](https://www.sololearn.com/Course/data-science/)
+- [FreeCodeCamp](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-course/)
+
 
 ## Deep Learning
 
@@ -193,6 +210,7 @@
 - [Harry Cresswell](https://harrycresswell.com/articles/)
 - [Mark Dotto Blog](https://markdotto.com)
 - [Martin Fowler](https://martinfowler.com/)
+- [Monica Powell](https://www.aboutmonica.com/)
 - [Raymond Camden](https://raymondcamden.com)
 - [Shay Howe](https://learn.shayhowe.com/)
 - [Tania Rascia](https://www.taniarascia.com/)
@@ -202,6 +220,10 @@
 - [Web Development Reading List](https://wdrl.info)
 - [Developer Roadmap](https://roadmap.sh)
 - [CodeWall](https://codewall.co.uk)
+- [Joshua Comeau](https://joshwcomeau.com/)
+- [Sara Soueidan](https://sarasoueidan.com/)
+- [Robin Weiruch](https://robinwieruch.de/)
+- [Wes Bos](https://wesbos.com/)
 
 ## Developer Stories
 
@@ -233,6 +255,7 @@
 - [Flutter Tutorial by The Net Ninja](https://www.youtube.com/watch?v=1ukSR1GRtMU)
 - [Example Flutter theme](https://startflutter.com/)
 - [Example Flutter UI](https://fluttersourcecode.com/)
+- [The Complete Free Flutter Course by Ovidius Mazuru](https://www.youtube.com/channel/UCJW25d8mW8ciz0DQC-5XNsQ/featured)
 
 ## Flask
 
@@ -249,15 +272,22 @@
 - [Get to know Git by scotch.io (Premium content)](https://scotch.io/courses/get-to-know-git)
 - [Git and GitHub for beginners (Traversy Media)](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
 - [Git and GitHub commands (a list)](https://github.com/joshnh/Git-Commands)
+- [Pro Git](https://git-scm.com/book/en/v2)
+- [Git In The Trenches](https://cbx33.github.io/gitt/intro.html)
+- [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
+- [Git Hooks](https://githooks.com/)
 
 ## Golang
 
+- [1000+ Go exercises, examples, and quizzes](https://github.com/inancgumus/learngo)
 - [A Tour of Go](https://tour.golang.org/welcome/1)
 - [Go by Example](https://gobyexample.com/)
-- [Learn Go in Y minutes](https://learnxinyminutes.com/docs/go/)
 - [Go Crash Course](https://www.youtube.com/watch?v=SqrbIlUwR0U)
 - [Go for Javascript Developers](https://www.pazams.com/Go-for-Javascript-Developers/)
 - [Golang Tutorials](https://golangtutorials.blogspot.com/2011/05/table-of-contents.html)
+- [Learn Go in Y minutes](https://learnxinyminutes.com/docs/go/)
+- [In-depth and Illustrated Go Tutorials](https://blog.learngoprogramming.com)
+- [Basic Middleware in Go](https://medium.com/@budimanokky93/basic-middleware-in-golang-9536faa41874)
 
 ## GraphQL
 
@@ -274,6 +304,10 @@
 ## Hugo
 
 - [Hugo in Action](https://www.manning.com/books/hugo-in-action)
+
+## Hacking
+
+- [Awesome Hacking](https://github.com/NetanMangal/Awesome-Hacking)
 
 ## InfoSec
 
@@ -311,17 +345,23 @@
 - [Javascript 30 by Wes Bos](https://javascript30.com/)
 - [ES6 for Everyone by Wes Bos](https://es6.io/)
 - [Alligator.io Javascript page](https://alligator.io/js/)
-- [JavaScript.info](http://javascript.info/)
+- [JavaScript.info](https://javascript.info/)
 - [Object Oriented JavaScript](https://www.thenetninja.co.uk/courses/object-oriented-javascript-tutorial)
 - [Learn X in Y minutes: JavaScript](https://learnxinyminutes.com/docs/javascript/)
 - [CSX Structured JavaScript Learning Journey - Codesmith](https://csx.codesmith.io/)
 - [Dev.to JavaScript](https://dev.to/t/javascript)
-- [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
+- [JavaScript Garden](https://bonsaiden.github.io/JavaScript-Garden/)
 - [Codecademy: Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
-- [Eloquent JavaScript](http://eloquentjavascript.net/)
+- [Eloquent JavaScript](https://eloquentjavascript.net/)
 - [Mozilla's JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 - [JavaScript for Cats](http://jsforcats.com/)
 - [Beginner JavaScript by Wes Bos](https://beginnerjavascript.com/)
+- [The Modern JavaScript Tutorial](https://javascript.info/)
+- [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+- [Beginner's Series to JavaScript](https://www.youtube.com/playlist?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2)
+- [learn-js](https://www.learn-js.org/)
+- [JavaScript Online](https://learnjavascript.online/)
+- [DevProjects - Free Real-World JavaScript Projects](https://www.codementor.io/projects/javascript)
 
 ## Kotlin
 
@@ -331,6 +371,12 @@
 - [Kotlin by Hackr.io](https://hackr.io/tutorials/learn-kotlin)
 - [Kotlin for Android](http://antonioleiva.com/kotlin/)
 - [Programming Kotlin](https://www.packtpub.com/application-development/programming-kotlin)
+- [Kotlin bootcamp](https://developer.android.com/courses/kotlin-bootcamp/overview#lesson_1_get_started)
+- [DevProjects - Free Real-World Mobile Apps Projects](https://www.codementor.io/projects/mobile)
+
+## Laravel
+
+[list-of-21-artisan-make-commands-with-parameters](https://quickadminpanel.com/blog/list-of-21-artisan-make-commands-with-parameters/)
 
 ## Machine Learning
 
@@ -340,6 +386,7 @@
 - [Topal](https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer)
 - [MonkeyLearn](https://monkeylearn.com/blog/gentle-guide-to-machine-learning/)
 - [An Introduction to Statistical Learning with Applications in R](https://www-bcf.usc.edu/~gareth/ISL/)
+- [Machine learning mastery](https://machinelearningmastery.com/blog/)
 - [Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
 
 ## Malware Analysis
@@ -388,6 +435,9 @@
 - [Server-side Development with NodeJS, Express and MongoDB](https://www.coursera.org/learn/server-side-nodejs)
 - [Awesome Node.JS (A-Z) Youtube Lecture](https://www.youtube.com/watch?v=rSHL_lYY_Xc&list=PLatXnLy-YGQexU9sktggQbw7tq815yGbR)
 - [Nodejs.dev](https://nodejs.dev)
+- [Beginner's Series to Node.js](https://www.youtube.com/playlist?list=PLlrxD0HtieHje-_287YJKhY8tDeSItwtg)
+- [Build JavaScript applications with Node.js](https://docs.microsoft.com/learn/paths/build-javascript-applications-nodejs/?wt.mc_id=nodebeginner-ch9-cxa)
+- [DevProjects - Free Real-World Node.js Projects](https://www.codementor.io/projects/nodejs)
 
 ## PHP
 
@@ -398,6 +448,7 @@
 - [Laravel framework](https://laravel.com)
 - [Laracasts](https://laracasts.com/)
 - [PHP Tutorial](https://www.tutorialspoint.com/php/index.htm)
+- [DevProjects - Free Real-World PHP Projects](https://www.codementor.io/projects/php)
 
 ## PLSQL
 
@@ -455,6 +506,13 @@
 - [Python for Fun](http://www.openbookproject.net/py4fun/)
 - [A Byte of Python](https://python.swaroopch.com/)
 - [Learn Python 3 By Code Academy](https://www.codecademy.com/learn/learn-python-3)
+- [ Python tutorials for beginners ](https://www.youtube.com/watch?v=aqvDTCpNRek&list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME)
+- [ Python OOP](https://www.programiz.com/python-programming/object-oriented-programming)
+- [Full-Stack Python](https://www.fullstackpython.com/table-of-contents.html)
+- [Python Tutorials](https://realpython.com/)
+- [Algorithms and Data Structures with Python](https://jooseph.com/collections/802?utm_source=reddit.com&utm_medium=referral&utm_campaign=r%2Flearnprogramming)
+- [Python Tutorial - Tutlane](https://www.tutlane.com/tutorial/python)
+- [DevProjects - Free Real-World Python Projects](https://www.codementor.io/projects/python)
 
 ## ReactJS
 
@@ -480,6 +538,7 @@
 - [React Enlightenment](https://www.reactenlightenment.com)
 - [React Hooks in Action](https://www.manning.com/books/react-hooks-in-action)
 - [Develop Live Project on React & Spring Boot with Payment Integration & BarCode Scanner](https://www.manning.com/liveproject/online-booking-systems-for-a-salon-and-day-spa-using-spring-boot-and-reactjs?a_aid=muthuishere&a_bid=4f5b6535)
+- [Epic React by Kent C Dodds](https://epicreact.dev/)
 
 ## React Native
 
@@ -488,6 +547,7 @@
 - [Awesome React Native](https://www.awesome-react-native.com/)
 - [UI Libraries](https://blog.bitsrc.io/11-react-native-component-libraries-you-should-know-in-2018-71d2a8e33312)
 - [The State Of React Native](https://www.youtube.com/watch?v=plTTFqbEiEE)
+- [DevProjects - Free Real-World React Native Projects](https://www.codementor.io/projects/react-native)
 
 ## Ruby
 
@@ -495,8 +555,9 @@
 - [The Ruby Reference](https://rubyreferences.github.io/rubyref/)
 - [Ada Developers Academy Jump Start](https://github.com/Ada-Developers-Academy/jump-start)
 - [App Academy Open](https://open.appacademy.io/)
+- [DevProjects - Free Real-World Ruby Projects](https://www.codementor.io/projects/ruby)
 
-## Ruby on Rails 
+## Ruby on Rails
 
 - [Official Rails Website](https://rubyonrails.org/)
 - [David Heinemeier Hansson](https://www.youtube.com/channel/UCUkM9uMpWatT7gVWShgtKFw)
@@ -551,6 +612,12 @@
 - [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
 - [Cool Tech Confrence Talks](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
 
+## Startups
+
+- [Stripe Atlas](https://stripe.com/atlas/guides)
+- [YCombinator Startup school](https://www.startupschool.org/?utm_source=yc&utm_campaign=ycdc_header)
+- [Stanford CS183F Lectures with YCombinator](https://youtu.be/5ZXU84_sGXo?list=PLoROMvodv4rNpMrTeeh-627Lajh6uSUgY)
+
 ## Svelte
 
 - [Svelte and Sapper in Action (Book)](https://www.manning.com/books/svelte-and-sapper-in-action)
@@ -566,6 +633,15 @@
 - [The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
 - [Become an iOS Developer](https://www.udacity.com/course/ios-developer-nanodegree--nd003)
 - [How to learn Swift programming for free in 2020](https://www.hackingwithswift.com/articles/2/how-to-learn-swift-programming-for-free)
+- [Learn Swift - Tutlane](https://www.tutlane.com/tutorial/swift)
+- [DevProjects - Free Read-World Swift Projects](https://www.codementor.io/projects/swift)
+
+## TensorFlow
+
+- [Introduction for TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
+
+## Twilio
+- [Twilio Official Tutorial](https://www.twilio.com/docs/tutorials)
 
 ## Typescript
 
@@ -577,10 +653,6 @@
 - [Typescript Debugging in VSCode](https://fettblog.eu/typescript-node-visual-studio-code/)
 - [Using Jest for Typescript Testing](https://github.com/kulshekhar/ts-jest)
 - [Typescript Exercises](https://github.com/mdevils/typescript-exercises)
-
-## TensorFlow
-
-- [Introduction for TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
 
 ## Voice
 
@@ -601,14 +673,22 @@
 - [Vue Mastery - Multiple Free Classes](https://www.vuemastery.com/)
 - [Laravel Cast - Learn Vue 2 Step by Step](https://laracasts.com/series/learn-vue-2-step-by-step)
 - [Vue Cheatsheet](https://marozed.ma/vue-cheatsheet/)
+- [Vue School](https://vueschool.io/)
+- [Vue Curated](https://curated.vuejs.org/)
+- [Vue Screencasts](https://www.youtube.com/channel/UCJasK7cAgRz1RGMJCoRLXXQ/)
+- [DevProjects - Free Real-World Vue Projects](https://www.codementor.io/projects/vue)
 
 ## Women in Tech
 
 - [Vue Vixens](https://vuevixens.org/)
 - [PyLadies](https://www.pyladies.com/)
+- [Girls Who Code](https://girlswhocode.com/)
 - [Women Who Code](https://www.womenwhocode.com)
 - [Ladies of Code](https://www.ladiesofcode.com/)
 - [Women in Tech](https://www.womenintech.co.uk/)
 - [Tech Ladies](https://www.hiretechladies.com/)
 - [Women TechMakers](https://www.womentechmakers.com/)
 - [Ladybug Podcast - Women in Tech](https://ladybug.dev/)
+
+## XML
+- [W3](https://www.w3.org/XML)
